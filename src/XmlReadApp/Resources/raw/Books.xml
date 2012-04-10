@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ArrayOfBook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Book>
+		<Title>Android Programming with MonoDroid and .NET/C#</Title>
+		<Category>Develop</Category>
+	</Book>
+	<Book>
+		<Title>Professional Cross-Platform Mobile Development in C#</Title>
+		<Category>Develop</Category>
+	</Book>	
+	<Book>
+		<Title>Militar history of the second world war</Title>
+		<Category>History</Category>
+	</Book>
+	<Book>
+		<Title>The fall of Rome</Title>
+		<Category>History</Category>
+	</Book>	
+	<Book>
+		<Title>The silver spoon</Title>
+		<Category>Cooking</Category>
+	</Book>
+	<Book>
+		<Title>Toscana's food</Title>
+		<Category>History</Category>
+	</Book>
+	<Book>
+		<Title>F1 champions</Title>
+		<Category>Sport</Category>
+	</Book>
+	<Book>
+		<Title>MotoGp champions</Title>
+		<Category>Sport</Category>
+	</Book>
+</ArrayOfBook>

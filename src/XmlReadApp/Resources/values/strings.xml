@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="SimpleSummary">Simple text databind</string>
+	<string name="ListSimple">Load simple data bind</string>
+	<string name="ListCustom">Load custom data bind</string>
+</resources>
